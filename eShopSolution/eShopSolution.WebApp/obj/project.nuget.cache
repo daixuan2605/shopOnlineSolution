@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8c7rGuRBjXWuqU7jyUTFlyyD9NROGsxT4rIrqfH++D5CJCuGO5XvH4bwaTDzZertB9TtQw702aKjsTW+291rg==",
+  "success": true,
+  "projectFilePath": "D:\\DaiPV\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
